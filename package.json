@@ -1,0 +1,26 @@
+{
+	"name": "clodsire",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "murasixtyfour",
+	"license": "MIT",
+	"dependencies": {
+		"color-convert": "^2.0.1",
+		"color-thief-node": "^1.0.4",
+		"discord.js": "^14.7.1",
+		"dotenv": "^16.0.3",
+		"fs": "^0.0.1-security",
+		"lodash": "^4.17.21",
+		"nearest-color": "^0.4.4",
+		"node": "^19.3.0",
+		"node-fetch": "^2.6.7",
+		"progress-string": "^1.2.2",
+		"random-seed": "^0.3.0",
+		"table": "^6.8.0"
+	}
+}
